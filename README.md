@@ -14,7 +14,7 @@ third_parties/
 filters/
    
 > - Contains the underlying open-source codecs with the Bevara modifications.     
-> - See their individual licenses in the ossciated third_parties directory for permitted use. 
+> - See their individual licenses in the associated directory for permitted use. 
 
 
 
